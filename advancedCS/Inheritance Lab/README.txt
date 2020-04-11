@@ -1,0 +1,1 @@
+I did the challenge where you can delete a profile. My implementation allows the user to click on an Employee in the JPanel and then press Remove to delete the user

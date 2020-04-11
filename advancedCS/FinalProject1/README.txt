@@ -1,0 +1,1 @@
+I implemented the first challenge in which there are 2+ water areas, 2+ trees, and 2+ boulders that the player cannot move onto.

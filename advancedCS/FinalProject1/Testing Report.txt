@@ -1,0 +1,7 @@
+Nice job so far. The graphics are pretty neat and your game is easy to understand and fun to play! Things to work on: add sound and complete a challenge. In addition, I would recommend that you prevent users from moving after the game has been completed in order to avoid confusion for the users. Good luck and have fun!
+
+Thank you so much for the feedback, I am glad you enjoyed that draft of the game. I worked on some of the areas you recommended that I implemented in the game. For example, I added sound for when the player grabs a gem and a different sound for when the user touches fire. In addition, I completed the challenge were the grid also scatters 6 obstacles around the grid that do not harm the player. Finally, I also included a boolean that is set to false once the game is complete to prevent the users from moving after the game is over. 
+
+For your project, you should increase the grid size because there is a small chance that a gem spawns surrendered by fire. Increasing the grid would minimize that chance. I like how you can play the game across different machines. A suggestion to improve the game is to add obstacles that do not make the player lose a health (i.e rivers and rocks).
+
+Thank you for taking the time to play my game and give feedback. I took your suggestions into account by increasing the size of the grid such that the error you encountered is minimized and I also added obstacles that do not harm the player such as rivers, rocks, and trees. 

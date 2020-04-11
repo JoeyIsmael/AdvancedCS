@@ -1,0 +1,1 @@
+Challenge 2: User can change name or password while signed in.

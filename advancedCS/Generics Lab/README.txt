@@ -1,0 +1,1 @@
+I did the first challenge. If you enter in a period, the delete button will remove the class associated with that period.
